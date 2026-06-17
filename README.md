@@ -1,4 +1,4 @@
-# RAG-apa
+# RAG-app
 
 A comprehensive Retrieval-Augmented Generation (RAG) application combining document retrieval with large language models for intelligent question answering and information extraction.
 
